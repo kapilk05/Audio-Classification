@@ -27,6 +27,8 @@ RL-based techniques were used to optimize:
 - **Training Accuracy**: 92%
 - **Test Accuracy**: 87%
 - **Baseline Model Accuracy**: 78%
+
+This was a mini project for the Deep Learning module I had in semester 7. It got 46/50 during the external presentation.
 - **Improvement**: RL-based optimizations led to a **9% accuracy increase**
 
 
